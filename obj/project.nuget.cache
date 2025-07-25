@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oxqCBhx/TxM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zewti\\source\\repos\\AndroidApp2\\AndroidApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zewti\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.7\\microsoft.net.illink.tasks.9.0.7.nupkg.sha512",
+    "C:\\Users\\zewti\\.nuget\\packages\\microsoft.android.runtime.36.android-arm64\\35.0.78\\microsoft.android.runtime.36.android-arm64.35.0.78.nupkg.sha512",
+    "C:\\Users\\zewti\\.nuget\\packages\\microsoft.android.ref.36\\35.0.78\\microsoft.android.ref.36.35.0.78.nupkg.sha512",
+    "C:\\Users\\zewti\\.nuget\\packages\\microsoft.android.runtime.36.android-x64\\35.0.78\\microsoft.android.runtime.36.android-x64.35.0.78.nupkg.sha512"
+  ],
+  "logs": []
+}
